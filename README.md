@@ -1,41 +1,43 @@
 # Analyzing Happiness Around the World
 
-This project analyses the various factors undelying happiness around the world. It uses the the world happiness report data.
+This project analyzes various factors influencing happiness globally, utilizing data from the World Happiness Report.
+
+![world_happiness](happiness.jpeg)
 
 ### Table of Contents
 
-1. [Requisites](#requisites)
+1. [Requirements](#requisites)
 2. [Project Motivation](#motivation)
 3. [File Descriptions](#files)
 4. [Results](#results)
 5. [Licensing, Authors, and Acknowledgements](#licensing)
 
 
-## Requisites <a name="requisites"></a>
+## Requirements <a name="requirements"></a>
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+No additional libraries are necessary beyond the Anaconda distribution of Python. The code is compatible with Python versions 3.*.
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interested in using World Happiness report data from 2015 and 2016 (though the analysis can be extended to the later years) to better understand the following:
+This project focuses on World Happiness Report data from 2015 and 2016 (with the potential to extend the analysis to later years) to explore the following questions:
 
-1. What makes countries happier?
-2. Is the notion of happiness the same across the world?
-3. What explains increasing or decreasing happiness over the years?
-
+What factors contribute to higher happiness levels in countries?
+Does the concept of happiness vary across different cultures?
+What explains trends in increasing or decreasing happiness over the years?
 
 ## File Descriptions <a name="files"></a>
 
-There is a Juptyer notebook in this repository to showcase the work related to the above questions. The other files in the respoitory are the different data sets corresponding to different years.
+This repository includes a Jupyter notebook that presents analyses related to the questions above. Additionally, the repository contains datasets corresponding to various years.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found [here](https://medium.com/@vigyaan/what-does-happiness-means-across-the-world-1e5655776279).
+Key findings from the analysis can be found [here](https://medium.com/@vigyaan/what-does-happiness-means-across-the-world-1e5655776279).
 
-To summarize:
-1. Countries with more money, more family support and better health tend to be happier.
-2. We found that happiness in Asia, the Middle East and Northern Africa correlated with more family support whereas in Central Europe, Latin America and Sub-Saharan Africa, richer countries are happier and in Western countries, more perceived generosity was related to more happiness.
-3. Finally, we obtained the same results when we compared the changes in different factors over years to the absolute values of the factors themselves.
+In summary:
+
+Countries with greater wealth, strong family support, and better health tend to report higher happiness levels.
+In Asia, the Middle East, and Northern Africa, happiness correlates more strongly with family support, while in Central Europe, Latin America, and Sub-Saharan Africa, wealthier countries tend to be happier. In Western nations, perceived generosity is associated with increased happiness.
+The analysis revealed consistent results when comparing changes in various factors over time to their absolute values.
 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
