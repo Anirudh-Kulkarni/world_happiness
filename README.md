@@ -35,9 +35,10 @@ Key findings from the analysis can be found [here](https://medium.com/@vigyaan/w
 
 In summary:
 
-Countries with greater wealth, strong family support, and better health tend to report higher happiness levels.
-In Asia, the Middle East, and Northern Africa, happiness correlates more strongly with family support, while in Central Europe, Latin America, and Sub-Saharan Africa, wealthier countries tend to be happier. In Western nations, perceived generosity is associated with increased happiness.
-The analysis revealed consistent results when comparing changes in various factors over time to their absolute values.
+- Countries with greater wealth, strong family support, and better health tend to report higher happiness levels.
+- In Asia, the Middle East, and Northern Africa, happiness correlates more strongly with family support, while in Central Europe, Latin America, and Sub-Saharan Africa, wealthier countries tend to be happier.
+- In Western nations, perceived generosity is associated with increased happiness.
+- The analysis revealed consistent results when comparing changes in various factors over time to their absolute values.
 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
